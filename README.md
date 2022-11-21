@@ -19,3 +19,9 @@ This project is so cool! I feel like I'm doin something! It's super easy to unde
 
 ### please rate this project!
 you can rate with one star, two, three, four, or five stars!
+
+### Author
+Pearl
+
+### please leave your comments here!
+I would love to hear from you!
