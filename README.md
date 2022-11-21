@@ -1,17 +1,15 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
+>**Note**: Pearl just cloned this repo! Here, she will gather all her new aquired knowledge on control flow and finish this udacity course!
 ### Date created
-Include the date you created this project and README file.
+Sunday, November 20th, 2022
 
 ### Project Title
-Replace the Project Title
+Control flow summary
 
 ### Description
-Describe what your project is about and what it does
+This project will use your newly aquired knowledge to post on github!
 
 ### Files used
-Include the files used
+I included my python file which was created in the last profect, and all data files from the previous project
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Thank you Udacity for this amazing course!
